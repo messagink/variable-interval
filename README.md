@@ -27,7 +27,7 @@ npm i -s variable-interval
 - Github: [@akarshit](https://github.com/akarshit)
 - LinkedIn: [@akarshit-wal](https://linkedin.com/in/akarshit-wal)
 
-Thanks to @akshendra for his inputs.
+Thanks to [@akshendra](https://github.com/akshendra) for his inputs.
 
 ## Show your support
 
