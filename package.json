@@ -1,0 +1,25 @@
+{
+  "name": "variable-interval",
+  "version": "0.1.0",
+  "description": "module to schedule functions at variable time",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/messagink/variable-interval.git"
+  },
+  "keywords": [
+    "interval",
+    "custom",
+    "variable",
+    "setinterval"
+  ],
+  "author": "Akarshit Wal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/messagink/variable-interval/issues"
+  },
+  "homepage": "https://github.com/messagink/variable-interval#readme"
+}
