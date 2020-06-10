@@ -79,8 +79,7 @@ _the first parameter for both exec and next is the count of how many times they 
 #### setVariableInterval(intervalId)
 This function will stop the scheduling of `exec` right away.
 - intervalId: the intervalId obtained from `setVariableInterval`
-  
-#### setVariableInterval(exec, next, ...params)
+
 ## Maintainer
 
   
