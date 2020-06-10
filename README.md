@@ -25,7 +25,7 @@ Module to schedule a function to be invoked after a variable time, chosen on the
 
   
 
-### ✨ [Demo](https://messagink.com/story/5edd1e31dc9904d7c0989bfc/triple-filter-test?autoScroll=true)
+### ✨ [Demo](https://messagink.com/story/5ee0e5d935f8e2d552c1836d/demo-variable-interval?autoScroll=true)
 
   
 
