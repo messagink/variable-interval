@@ -1,4 +1,4 @@
-const { setVariableInterval, clearVariableInterval } = require("./main");
+const { setVariableInterval, clearVariableInterval } = require("./index");
 
 function printName(invocationCount, user) {
   console.log(`Invoked ${invocationCount} times`, user.name);

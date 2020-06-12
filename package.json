@@ -1,8 +1,8 @@
 {
   "name": "variable-interval",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "module to schedule functions at variable time",
-  "main": "main.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
