@@ -1,6 +1,6 @@
 {
   "name": "variable-interval",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "module to schedule functions at variable time",
   "main": "index.js",
   "scripts": {
@@ -14,7 +14,11 @@
     "interval",
     "custom",
     "variable",
-    "setinterval"
+    "setinterval",
+    "await",
+    "async",
+    "repeat",
+    "setTimeout"
   ],
   "author": "Akarshit Wal",
   "license": "MIT",
