@@ -40,6 +40,7 @@ const setVariableInterval = (exec, next, ...args) => {
     } else if (typeof next === "number") {
       initialWait = next;
     }
+    _$intervalStore[intervalId].count += 1;
     _$intervalStore[intervalId].timeoutId = setTimeout(
       recursiveHelper,
       initialWait
